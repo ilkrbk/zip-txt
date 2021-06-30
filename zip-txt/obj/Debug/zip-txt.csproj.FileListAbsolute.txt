@@ -1,0 +1,6 @@
+/Users/ilkrbk/Documents/KPI-study/1_class/OP2/lab/zip-txt/zip-txt/bin/Debug/zip_txt.exe
+/Users/ilkrbk/Documents/KPI-study/1_class/OP2/lab/zip-txt/zip-txt/bin/Debug/zip_txt.pdb
+/Users/ilkrbk/Documents/KPI-study/1_class/OP2/lab/zip-txt/zip-txt/obj/Debug/zip-txt.csprojAssemblyReference.cache
+/Users/ilkrbk/Documents/KPI-study/1_class/OP2/lab/zip-txt/zip-txt/obj/Debug/zip-txt.csproj.CoreCompileInputs.cache
+/Users/ilkrbk/Documents/KPI-study/1_class/OP2/lab/zip-txt/zip-txt/obj/Debug/zip_txt.exe
+/Users/ilkrbk/Documents/KPI-study/1_class/OP2/lab/zip-txt/zip-txt/obj/Debug/zip_txt.pdb
